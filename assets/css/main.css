@@ -112,6 +112,15 @@ header ul li{
   padding: 0% !important;
   margin-bottom: 3em;
 }
+.innerProduct{
+  padding: 0px !important;  
+  width: 300px;  
+  border-top: 1px solid teal;
+  border-left: 1px solid teal;
+  border-right: 1px solid teal;
+  border-bottom: 1px solid lightgray;  
+  border-radius: 5px 5px 0 0 ;  
+}
 
 .innerProduct .col-12{
   padding: 0px !important;
@@ -143,7 +152,7 @@ header ul li{
   background-color: rgb(227, 248, 246);
   border-radius: 0 0 5px 5px;
   border: 1px solid teal; 
-  margin: auto;
+  
 }
 
 .btnFind{
@@ -152,16 +161,6 @@ header ul li{
   color: white;
   border: none;
   border-radius: 5px;
-}
-
-.innerProduct{
-  padding: 0px !important;  
-  width: 300px;  
-  border-top: 1px solid teal;
-  border-left: 1px solid teal;
-  border-right: 1px solid teal;
-  border-bottom: 1px solid lightgray;  
-  border-radius: 5px 5px 0 0 ;
 }
 
 footer .col-12{

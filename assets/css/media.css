@@ -1,8 +1,3 @@
-/*@media (min-width: 1072px) and (max-width: 1144px){
-
- 
-}*/
-
 @media (min-width: 701px) and (max-width: 976px){
   [class*='col-']{
     width: 100%;
@@ -10,7 +5,9 @@
   .innerProduct{
     margin: auto;
   }
- 
+  .btnFindContainer{
+    margin: auto;
+  }
 }
 
 @media (max-width: 700px){
